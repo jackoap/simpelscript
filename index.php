@@ -1,10 +1,10 @@
 <html>
  <head>
-  <title>PHP Test versie: Wed Mar  9 05:28:00 CET 2022
+  <title>PHP Test versie: Wed Mar  9 06:28:00 CET 2022
 </title>
  </head>
  <body>
- <?php echo '<p>Hello World - it was Wed Mar  9 05:28:00 CET 2022
+ <?php echo '<p>Hello World - it was Wed Mar  9 06:28:00 CET 2022
  when this script was created</p>'; ?> 
  </body>
 </html>
